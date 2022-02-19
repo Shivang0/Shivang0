@@ -71,7 +71,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
+[![Shivang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivang0)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔥 Streak stats
 
 
