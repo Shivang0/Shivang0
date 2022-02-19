@@ -72,11 +72,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shivang0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
+    
 <p align="center">
   <a href="https://github.com/Shivang0/github-readme-streak-stats">
     <img title="🔥Shivang's stats" alt="Shivang0's Stats" src="https://github-readme-stats.vercel.app/api?username=Shivang0"/>
+</details>
+
 
 ## 🔥 Streak stats
 
