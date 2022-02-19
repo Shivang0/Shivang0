@@ -73,8 +73,8 @@
 </details>
 
 <p align="center">
-[![Shivang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivang0)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+  <a href="https://github.com/Shivang0/github-readme-streak-stats">
+    <img title="🔥Shivang's stats" alt="Shivang0's Stats" src="https://github-readme-stats.vercel.app/api?username=Shivang0"/>
 
 ## 🔥 Streak stats
 
