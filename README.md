@@ -2,6 +2,7 @@
   Welcome to Shivang's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 <!-- Typing SVG by Shivang0 - https://github.com/Shivang0/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/Shivang0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
